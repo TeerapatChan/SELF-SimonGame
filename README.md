@@ -14,7 +14,7 @@ The rules of the Simon game are as follows:
    <img src="https://github.com/TeerapatChan/SimonGame/assets/105777142/eb5dfe15-eacd-4198-a361-a0ef3af0df0f" width="810" text-align = "center">
    
 6. As the game progresses, the pattern becomes longer and more challenging. The player must continue to remember and accurately repeat the pattern.
-7. If the player presses the wrong button or makes a mistake in the sequence, the game ends and the player's score is displayed.
+7. If the player presses the wrong button or makes a mistake in the sequence, the game ends.
    
    <img src="https://github.com/TeerapatChan/SimonGame/assets/105777142/bf211b65-54f8-4149-a097-5557355a3d4e" width="810"  text-align = "center">
    
